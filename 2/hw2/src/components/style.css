@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.temp{
+   display: flex;
+   justify-content: center;
+   color: rgb(82, 82, 82);
+
+}
+
+.block{
+
+    border: 2px solid rgb(56, 73, 187); /* Толщина, стиль и цвет рамки */
+    padding: 10px;          /* Отступы внутри элемента */
+    margin: 20px;          /* Отступы снаружи элемента */
+width: 1000px;
+height: 600px; 
+border-radius: 20px;
+background-color: aliceblue;
+
+
+
+}
+#btn{
+    border-radius: 5px;
+
+}
+
+#input1{
+    border-radius: 5px;
+    margin-right: 5px;
+}
+
+
+.kvadrat{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: rgb(227, 226, 218);
+}
+
+.pogoda{
+    display: flex;
+   justify-content: center;
+    color: rgb(124, 119, 119);
+
+}
+
+.data{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+}
